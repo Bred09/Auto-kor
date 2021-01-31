@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916664 52.916664"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (0.92.5+68)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2356359"
+     inkscape:cx="95.556558"
+     inkscape:cy="102.11922"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(0,-79.375)">
+    <circle
+       style="opacity:1;fill:#afafaf;fill-opacity:1;stroke:#040600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1381"
+       cx="23.432928"
+       cy="99.390892"
+       r="16.095345" />
+    <path
+       style="fill:#d12929;fill-opacity:1;stroke:#000000;stroke-width:0.22120577px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.443249,104.0465 8.529279,-14.773117 h 1.266311 V 103.84862 H 19.457824 V 93.360419 l -6.221823,10.776511 z"
+       id="path1388"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08334)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.69112015px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11727801"
+       x="23.724924"
+       y="268.76492"
+       id="text1348"><tspan
+         sodipodi:role="line"
+         id="tspan1346"
+         x="23.724924"
+         y="268.76492"
+         style="stroke-width:0.11727801">Автошкола</tspan></text>
+    <text
+       id="text1379"
+       y="263.51929"
+       x="21.218464"
+       style="font-style:normal;font-weight:normal;font-size:7.3983531px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18495883"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.18495883"
+         y="263.51929"
+         x="21.218464"
+         id="tspan1377"
+         sodipodi:role="line">вто-Кор</tspan></text>
+  </g>
+</svg>

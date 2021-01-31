@@ -1,0 +1,27 @@
+.header{
+	background: #0047a0;
+	display: ruby;
+}
+.header li{
+	padding: 10px;
+}
+.header li a{
+	color: #fff;
+}
+
+.main{
+	background: #cd2e3a;
+}
+
+.footer{
+	background: #0047a0;
+	
+}
+
+
+body{
+	border: solid 4px red;
+}
+
+
+*{margin:0;padding:0;}
